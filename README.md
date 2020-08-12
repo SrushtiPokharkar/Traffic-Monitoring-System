@@ -3,19 +3,19 @@ Developed a web-based application where users can upload his/her personal docume
 verified.
 Web-apps provide ease to the user when they are caught by police and they do not have any original document with them. At this time they can show this
 online documents.
-Technologies used:-
+# Technologies used:-
 Front-End Development:
-	Html
-	Css
-	Javascript
+	-Html
+	-Css
+	-Javascript
 Back-End Development:
-	Java
-	JDBC
-	Servlet
-	Jsp
+	-Java
+	-JDBC
+	-Servlet
+	-Jsp
 Database used:
-	Sql/MySql
-How to Run:-
+	-Sql/MySql
+# How to Run:-
 1- Install these:
      Java SE Development Kit 8 (JDK 8)
      After installing JDK 8, install NetBeans IDE with all the features including Tomcat Apache Server.
