@@ -8,17 +8,17 @@ Front-End Development:
 Html
 Css
 Javascript
-Back-End Development
+Back-End Development:
 Java
 JDBC
 Servlet
 Jsp
-Database used
+Database used:
 Sql/MySql
 How to Run:-
 1- Install these:
-  Java SE Development Kit 8 (JDK 8)
-  After installing JDK 8, install NetBeans IDE with all the features including Tomcat Apache Server.
+     Java SE Development Kit 8 (JDK 8)
+     After installing JDK 8, install NetBeans IDE with all the features including Tomcat Apache Server.
 2- Open Netbeans IDE and go to Services > Servers > Apache Tomcat. Right click "Apache Tomcat" and select Properties. 
 3- Restart NetBeans IDE. Click on File -> Open Project and browse to the downloaded folder named "Project". 
-   Select Traffic-Monitoring-System and open them. Police Project will be loaded. Now run the project, then to test the web services run Police project.
+     Select Traffic-Monitoring-System and open them. Police Project will be loaded. Now run the project, then to test the web services run Police project.
